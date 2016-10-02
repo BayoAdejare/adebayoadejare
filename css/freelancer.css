@@ -72,8 +72,8 @@ header {
   color: #fff;
   background: #18bc9c;
   background-size: cover;
-  background-image: url('https://www.flickr.com/photos/75528449@N02/6801649749/in/photolist-6S7WxQ-bn3evg-dqK2SR-8UpVs5-6e347j-4Bs9Sx')
-}
+  background-image: url('img/backgroun.jpg');
+ }
 header .container {
   padding-top: 100px;
   padding-bottom: 50px;
