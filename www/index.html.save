@@ -3,23 +3,27 @@
 
 <head>
 
-    <title>Adebayo Adejare &mdash; Freelance Developer</title>
+    <title>Adebayo Adejare &mdash; Legacy of an Unchained</title>
 
     <!-- Meta -->
     <meta charset="utf-8">
     <meta name="theme-color" content="#2c3e50">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Web Development, Internet of Things, and Cybersecurity">
+    <meta name="description" content="Data Scientist, IoT Developer, and S-Ranked Super Hacker">
     <meta name="author" content="Adebayo Adejare">
 
+<<<<<<< HEAD:www/index.html
+    <title>Adebayo Adejare - Freelancer</title>
+=======
     <!-- Open Graph protocol -->
-    <meta property="og:title" content="Adebayo Adejare &mdash; Freelance Developer">
+    <meta property="og:title" content="Adebayo Adejare &mdash; Developer">
     <meta property="og:type" content="website">
     <meta property="og:url" content="http://adebayoadejare.com/">
     <meta property="og:image" content="">
-    <meta property="og:description" content="Web Development, Internet of Things, and Cybersecurity">
+    <meta property="og:description" content="Data Scientist, IoT Developer, and S-Ranked Super Hacker">
     <meta property="og:locale" content="en_US">
+>>>>>>> c881dd90f139c9b24d87bdd013d213f1fae5cfcc:index.html
 
     <!-- Bootstrap Core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -85,7 +89,8 @@
                     <div class="intro-text">
                         <span class="name">Adebayo Adejare</span>
                         <hr class="star-light">
-                        <span class="skills">Web Development &mdash; Internet of Things &mdash; Cybersecurity</span>
+<<<<<<< HEAD:www/index.html
+                        <span class="skills">Web Development &mdash; Internet of Things &mdash; Cybersecurity<
                     </div>
                 </div>
             </div>
@@ -109,7 +114,11 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/leverage.png" class="img-responsive" alt="Leverage Campaign Finance preview thumbnail">
+<<<<<<< HEAD:www/index.html
+                        <img src="img/portfolio/leverage.png" class="img-responsive" alt="">
+=======
+                        <img src="img/portfolio/leverage.gif" class="img-responsive" alt="Leverage Campaign Finance preview thumbnail">
+>>>>>>> c881dd90f139c9b24d87bdd013d213f1fae5cfcc:index.html
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -129,7 +138,8 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/candlewaster.png" class="img-responsive" alt="Candlewaster preview thumbnail">
+<<<<<<< HEAD:www/index.html
+                        <img src="img/portfolio/candlewaster.png" class="img-responsive" alt="">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -160,6 +170,9 @@
                             </div>
                         </div>
                         <img src="img/portfolio/submarine.png" class="img-responsive" alt="">
+=======
+                        <img src="img/portfolio/candlewaster.png" class="img-responsive" alt="Candlewaster preview thumbnail">
+>>>>>>> c881dd90f139c9b24d87bdd013d213f1fae5cfcc:index.html
                     </a>
                 </div>
             </div>
@@ -177,7 +190,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-4 col-lg-offset-2">
-                  <p>Adebayo is a software engineer with a diverse set of experience working on web, internet of things and embedded programming. His interests include nueral networks, gamification, hyperspectral imaging and sustainability.</p>
+                  <p>Adebayo is a programmer with a diverse set of experience working on web, internet of things and embedded programming. His interests include nueral networks, gamification, hyperspectral imaging and sustainability.</p>
                 </div>
                 <div class="col-lg-4">
                   <p>Adebayo programs in python, c++ and javascript. His favorite frameworks include tensorflow, django, backbone js, and selenium. His favorite platforms are raspberry pi, arduino, and Ubidots.</p>
@@ -256,8 +269,13 @@
                 <div class="row">
                     <div class="footer-col col-md-4">
                         <h3>Location</h3>
-                        <p>908 N 3rd, 
-                            <br>Philadelphia, PA 19123</p>
+<<<<<<< HEAD:www/index.html
+                        <p>3401 Grays Ferry Ave, 
+                            <br>Philadelphia, PA 19146</p>
+=======
+                        <p>1401 JFK Blvd<br>
+                        Philadelphia, PA 19107</p>
+>>>>>>> c881dd90f139c9b24d87bdd013d213f1fae5cfcc:index.html
                     </div>
                     <div class="footer-col col-md-4">
                         <h3>Around the Web</h3>
@@ -325,7 +343,11 @@
                         <div class="modal-body">
                             <h2>Leverage Campaign Finance</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/leverage.png" class="img-responsive img-centered" alt="Leverage Campaign Finance logo">
+<<<<<<< HEAD:www/index.html
+                            <img src="img/portfolio/leverage.png" class="img-responsive img-centered" alt="">
+=======
+                            <img src="img/portfolio/leverage.gif" class="img-responsive img-centered" alt="Leverage Campaign Finance logo">
+>>>>>>> c881dd90f139c9b24d87bdd013d213f1fae5cfcc:index.html
                             <p>The goal of Leverage is to empower citizens of Philadelphia to use campaign finance data when making informed decisions about who they donate to, who they support, and who they vote for.</p>
                             <ul class="list-inline item-details">
                                 <li>Client:
@@ -403,7 +425,7 @@
                             <p>With a meticulous eye for pixel-perfection and an obsessive passion for clean code, we’ll work together to build your projects correctly. Our team specializes in building content-managed web applications with Node.js, Django, REST, React, and other emerging technologies.</p>
                             <ul class="list-inline item-details">
                                 <li>Client:
-                                    <strong><a href="https://candlewaster.co/">Candlewaster</a>
+                                    <strong><a href="https://candlewaster.co/">Candlewaster LLC</a>
                                     </strong>
                                 </li>
                                 <li>Date:
@@ -422,6 +444,7 @@
             </div>
         </div>
     </div>
+<<<<<<< HEAD:www/index.html
     <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
@@ -437,7 +460,7 @@
                             <h2>Jumeidist</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/jumeidist.png" class="img-responsive img-centered" alt="">
-                            <p>Plant phenotyping</p>
+                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
                             <ul class="list-inline item-details">
                                 <li>Client:
                                     <strong><a href="http://jumeidist.com">Adebayo Adejare</a>
@@ -448,7 +471,7 @@
                                     </strong>
                                 </li>
                                 <li>Service:
-                                    <strong><a href="http://jumeidist.com">Web Development</a>
+                                    <strong><a href="http://jumeidist.com">Data Science & Web Development</a>
                                     </strong>
                                 </li>
                             </ul>
@@ -511,18 +534,18 @@
                             <h2>Doserall</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/submarine.png" class="img-responsive img-centered" alt="">
-                            <p>3D Sound localization</p>
+                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
                             <ul class="list-inline item-details">
                                 <li>Client:
-                                    <strong><a href="http://doserall.com">Adebayo Adejare</a>
+                                    <strong><a href="http://adebayoadejare.com">Adebayo Adejare</a>
                                     </strong>
                                 </li>
                                 <li>Date:
-                                    <strong><a href="http://doserall.com">April 2014</a>
+                                    <strong><a href="http://adebayoadejare.com">April 2014</a>
                                     </strong>
                                 </li>
                                 <li>Service:
-                                    <strong><a href="http://doserall.com">Web Development</a>
+                                    <strong><a href="http://adebayoadejare.com">Web Development</a>
                                     </strong>
                                 </li>
                             </ul>
@@ -533,6 +556,8 @@
             </div>
         </div>
     </div>
+=======
+>>>>>>> c881dd90f139c9b24d87bdd013d213f1fae5cfcc:index.html
 
     <!-- jQuery -->
     <script src="vendor/jquery/jquery.min.js"></script>
