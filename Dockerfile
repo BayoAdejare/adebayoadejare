@@ -9,6 +9,7 @@
 
 FROM nginx:latest
 MAINTAINER Adebayo Adejare
+
 # 80 = HTTP, 443 = HTTPS
 EXPOSE 80
 
@@ -26,3 +27,12 @@ RUN apt-get update -q  \
  apt-utils \
  && apt-get clean \
  && rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
+
+# Install nodejs
+RUN curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
+RUN sudo apt-get install -yq nodejs \
+ && apt-get clean \
+ && rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
+
+# Install Prerequisites
+RUN npm install --quiet
