@@ -10,6 +10,9 @@
 FROM nginx:latest
 MAINTAINER Adebayo Adejare
 
+# Copy custom configuration file from the current directory
+COPY volumes/conf.d/default.conf /etc/nginx/conf.d/default.conf
+
 # 80 = HTTP, 443 = HTTPS
 EXPOSE 80
 
