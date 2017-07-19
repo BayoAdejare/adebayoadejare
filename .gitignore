@@ -1,8 +1,8 @@
 node_modules
 
 # Mail server 
-<<<<<<< HEAD
-*.php *.py
-=======
 *.php
->>>>>>> bed8d85743e7e92cd1eb1d72732441681ebb635e
+*.py
+
+# JetBrains IDEs
+.idea/**
