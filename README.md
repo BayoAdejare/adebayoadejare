@@ -2,6 +2,7 @@
 [![Linkedin: Adebayo Adejare](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adebayoadejare/)](https://www.linkedin.com/in/adebayoadejare/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@adebayoadejare)](https://medium.com/@adebayoadejare)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/adebayo)](https://www.kaggle.com/adebayo)
+[![Quora Badge](https://img.shields.io/badge/-Quora-white?style=flat&logo=quora&logoColor=firebrick&link=https://www.quora.com/profile/Adebayo-Adejare)](https://www.quora.com/profile/Adebayo-Adejare)
 
 ### About Me 👋
 
